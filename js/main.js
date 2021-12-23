@@ -356,7 +356,7 @@ new WOW().init();
 
 // typed js 
 new Typewriter('.typed', {
-    strings: ['Web Designer', 'Frontend Developer', 'React Developer', 'React Native Developer', ],
+    strings: ['Web Designer', 'Frontend Developer', 'React Developer', ],
     autoStart: true,
     loop: true,
 
